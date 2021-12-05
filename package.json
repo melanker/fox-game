@@ -1,0 +1,31 @@
+{
+  "name": "fox-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alonmel1/fox-game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alonmel1/fox-game/issues"
+  },
+  "homepage": "https://github.com/alonmel1/fox-game#readme",
+  "devDependencies": {
+    "eslint": "^8.4.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-import": "^2.25.3",
+    "parcel-bundler": "^1.12.5",
+    "prettier": "^2.5.1"
+  },
+  "browserslist": [
+    "last 2 chrome versions"
+  ]
+}
